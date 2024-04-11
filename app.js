@@ -68,3 +68,4 @@
 //  } 
 // document.write("</h1>");    
 
+// other practice work 
