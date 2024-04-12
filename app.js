@@ -68,4 +68,31 @@
 //  } 
 // document.write("</h1>");    
 
-// other practice work 
+//  practice work 
+// this practice is to understand the working of reversed loop:
+
+//  i me index value store horhi hai 
+
+// let original = "melody"; 
+// let reversed = "";
+// let i = original.length - 1;
+//  reversed += original[i];
+//      document.write(reversed);
+
+// a practice to prove that i is storing index values in reversed loop:
+
+// let original = "melody"; 
+// let reversed = "";
+//      reversed = original[3];
+//      document.write(reversed);
+
+// so according to this i has stored "o" which index value is "3"
+
+// this is the work of reversed loop  :
+
+// let original = "melody"; 
+// let reversed = "";
+//      for (let i = original. length - 1; i >= 0; i--) {
+//      reversed += original[i];
+//      } 
+//      document.write(reversed);
